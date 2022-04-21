@@ -87,7 +87,6 @@ tensorboard-plugin-wit @ file:///home/conda/feedstock_root/build_artifacts/tenso
 threadpoolctl==3.1.0
 tifffile==2022.3.25
 timm==0.5.4
-torch==1.11.0
 torchaudio==0.11.0
 torchmetrics @ file:///home/conda/feedstock_root/build_artifacts/torchmetrics_1648086304639/work
 torchvision==0.12.0
