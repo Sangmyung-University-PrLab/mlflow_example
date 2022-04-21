@@ -10,7 +10,6 @@
 # Prerequisites
 Main Prerequisites versions
 ````sh
-pip install torch==1.11.0
 pip install pytorch-lightning==1.6.0
 pip install timm==0.5.4
 pip install albumentations==1.1.0
